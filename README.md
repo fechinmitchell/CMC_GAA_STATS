@@ -26,13 +26,13 @@ Ensure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/football-championship-analysis.git
+git clone https://github.com/fechinmitchell/CMC_GAA_STATS.git
 ```
 
 Navigate to the cloned repository:
 
 ```bash
-cd football-championship-analysis
+cd CMC_GAA_STATS
 ```
 
 ### Usage
